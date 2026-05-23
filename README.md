@@ -144,6 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@Karol-G](https://github.com/Karol-G/)
-* [@goanpeca](https://github.com/goanpeca/)
 * [@jaimergp](https://github.com/jaimergp/)
 
